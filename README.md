@@ -12,7 +12,7 @@ I'm an aspiring data analyst passionate about turning data into actionable insig
 
 ## Completed Projects
 
-### **Retail Insights with SQL (MySQL)**
+### - [**Retail Insights with SQL (MySQL)**](https://github.com/Hamzaboulhdir/Retail-Insights-with-SQL/blob/main/README.md)
 
 - **Objective**: *Conduct an in-depth data analysis using SQL on sales and customer data to derive key business insights.*
 - **Summary**: This project involved merging two datasets, `customer_data` and `sales_data`, to create a unified source of truth. Analyzed the combined dataset to answer crucial business questions like total revenue generated, most popular product category, top shopping malls by revenue, gender distribution across product categories, and age distribution per payment method.
