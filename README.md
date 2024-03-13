@@ -4,18 +4,36 @@ Welcome to my **Data Analysis Portfolio**! Here, I showcase my journey in data a
 
 ---
 
-## About Me
+## 🙋‍♂️ About Me
 
 I'm an aspiring data analyst passionate about turning data into actionable insights. My background in Business fuels my curiosity and dedication to exploring data in various domains.
 
 ---
 
-## Completed Projects
+## 🧰 Languages and Tools
+
+<img align="left" alt="Azuresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/1101px-Microsoft_Office_Excel_%282019–present%29.svg.png" />
+<img align="left" alt="Dataiku" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/D/dataiku-logo-53072C7B12-seeklogo.com.png" />
+<img align="left" alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Scikitlearn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img align="left" alt="Tableau Software" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
+<img align="left" alt="PowerBI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" />
+<img align="left" alt="Canva" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+
+<br style="clear: both;"/>
+
+
+---
+
+## ✅ Completed Projects
 
 ###  **Retail Insights with SQL (MySQL)**
 
-- **Objective**: *Conduct an in-depth data analysis using SQL on sales and customer data to derive key business insights.*
-- **Summary**: This project involved merging two datasets, `customer_data` and `sales_data`, to create a unified source of truth. Analyzed the combined dataset to answer crucial business questions like total revenue generated, most popular product category, top shopping malls by revenue, gender distribution across product categories, and age distribution per payment method.
+- **Objective**: Analyze sales and customer data with SQL to uncover vital business insights.
+- **Summary**: Merged `customer_data` and `sales_data` for a comprehensive analysis. Explored revenue, popular product categories, leading malls, and customer demographics.
 - **Skills & Tools**: `SQL`, `MySQL`.
 - **Status**: `Completed`
 - Click here --> [Link](https://github.com/Hamzaboulhdir/Retail-Insights-with-SQL/blob/main/README.md)
@@ -24,7 +42,7 @@ I'm an aspiring data analyst passionate about turning data into actionable insig
 
 ---
 
-## Projects Overview
+## 🔄 Projects Overview
 
 ### **Shopping Insights: A Predictive Analysis of Retail Sales Trends**
 
@@ -34,23 +52,29 @@ I'm an aspiring data analyst passionate about turning data into actionable insig
 - **Status**: `In Progress - Data Analysis Phase`
 - Click here --> [Link](https://github.com/Hamzaboulhdir/Predictive-Analysis-of-Retail-Sales-Trends/blob/main/README.md)
 
-### **Smart Beauty Forecasting System (Loreal Project)**
+<details>
+ <summary><strong>Smart Beauty Forecasting System (Loreal Project)</strong></summary>
 
 - **Objective**: *Develop a predictive system for identifying emerging trends in the beauty industry, with a focus on sustainability and innovation.*
 - **Summary**: This project involves analyzing market trends, consumer behavior, and environmental factors using machine learning techniques. We aim to provide actionable insights for sustainable and inclusive beauty products.
 - **Skills & Tools**: `Python`, `R`, `TensorFlow`, `scikit-learn`, `SQL`, `Power BI`, `Google Analytics`, `GitHub`.
 - **Status**: `In Progress`
 
-### **Sustainability Data Analysis Project**
+</details>
+
+<details>
+ <summary><strong>Sustainability Data Analysis Project</strong></summary>
 
 - **Objective**: *Create a data-driven approach to enhance organizational sustainability.*
 - **Summary**: The project focuses on analyzing energy consumption, waste management, and supply chain processes to identify sustainable practices. It involves predictive modeling and creating dashboards for visualizing the impact of various sustainability initiatives.
 - **Skills & Tools**: `Python` (Pandas, NumPy, Matplotlib, Seaborn), `SQL`, `Power Bi`.
-- **Status**: `Planning`
+- **Status**: `On Hold` (due to insufficient data)
+
+</details>
 
 ---
 
-## Continuous Learning
+## 📚 Continuous Learning
 
 - **Immediate Focus**: Enhancing my skills in `Python`, machine learning basics, and data visualization.
 - **Medium-Term Goals**: Deepening knowledge in specific machine learning algorithms and digital marketing analytics.
@@ -58,7 +82,7 @@ I'm an aspiring data analyst passionate about turning data into actionable insig
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 Feel free to reach out and connect on [LinkedIn](https://www.linkedin.com/in/hamzaboulhdir/) or email me at [Email](mailto:Hamza.datax@gmail.com).
 
