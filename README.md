@@ -34,9 +34,10 @@ I'm an aspiring data analyst passionate about turning data into actionable insig
 
 - **Objective**: Analyze sales and customer data with SQL to uncover vital business insights.
 - **Summary**: Merged `customer_data` and `sales_data` for a comprehensive analysis. Explored revenue, popular product categories, leading malls, and customer demographics.
-- **Skills & Tools**: `SQL`, `MySQL`.
+- **Skills & Tools**: ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 - **Status**: `Completed`
-- Click here --> [Link](https://github.com/Hamzaboulhdir/Retail-Insights-with-SQL/blob/main/README.md)
+- 🔗 Click here --> [Link](https://github.com/Hamzaboulhdir/Retail-Insights-with-SQL/blob/main/README.md)
 
 (To be updated regularly with summaries of completed projects)
 
@@ -48,9 +49,9 @@ I'm an aspiring data analyst passionate about turning data into actionable insig
 
 - **Objective**: *Develop a predictive model to forecast shopping trends.*
 - **Summary**: Leading a data analysis project to uncover shopping trends in Istanbul’s retail sector from 2021 to 2023. This initiative integrates a diverse array of data, including customer shopping behavior, demographic insights, economic indicators, and online search trends, to construct a comprehensive predictive model. The project emphasizes the application of various data analysis and machine learning techniques to derive actionable insights.
-- **Skills & Tools**: `Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Statsmodels)`, `SQL`, `Excel`, `Tableau`.
+- **Skills & Tools**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-78909C?style=flat-square&logo=seaborn&logoColor=white) ![Scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-757575?style=flat-square&logo=statsmodels&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 - **Status**: `In Progress - Data Analysis Phase`
-- Click here --> [Link](https://github.com/Hamzaboulhdir/Predictive-Analysis-of-Retail-Sales-Trends/blob/main/README.md)
+- 🔗 Click here --> [Link](https://github.com/Hamzaboulhdir/Predictive-Analysis-of-Retail-Sales-Trends/blob/main/README.md)
 
 <details>
  <summary><strong>Smart Beauty Forecasting System (Loreal Project)</strong></summary>
