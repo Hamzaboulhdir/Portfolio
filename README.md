@@ -25,6 +25,15 @@ I'm an aspiring data analyst passionate about turning data into actionable insig
 
 <br style="clear: both;"/>
 
+## 🏆 Certifications
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/VRW4YM7XNADM">
+    <img align="left" alt="Google Data Analytics Certificate" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/2048px-Google_%22G%22_logo.svg.png" />
+    Google Data Analytics Professional Certificate
+</a>
+
+<br style="clear: both;"/>
+
 
 ---
 
