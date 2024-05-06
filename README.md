@@ -93,7 +93,7 @@ Je valorise profondément le travail d'équipe, l'intégrité, l'innovation et l
 
 ## 🌐 Connect With Me
 
-N'hésitez pas à vous connecter sur [LinkedIn](https://www.linkedin.com/in/hamzaboulhdir/) ou à m'envoyer un courriel à l'adresse Email. [Email](mailto:Hamza.datax@gmail.com).
+N'hésitez pas à m'envoyer un courriel à l'adresse Email. [Email](mailto:Hamza.datax@gmail.com).
 
 ---
 
