@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️  À Propos de Moi
 
-Passionné par l'analyse de données et convaincu de son rôle clé dans le succès des entreprises, j'ai évolué du monde de la finance et contrôle de gestion au domaine exaltant du data management. Ce chemin m'a offert une vision claire de comment exploiter les données pour faire la différence.
+Passionné de données et de Business Intelligence, je suis convaincu de leur impact décisif sur la réussite des entreprises, j'ai évolué du monde de la finance et contrôle de gestion au domaine exaltant du data management. Ce chemin m'a offert une vision claire de comment exploiter les données pour faire la différence.
 
 Je valorise profondément le travail d'équipe, l'intégrité, l'innovation et le respect de l'environnement. **Mon idéal ?** --> Un environnement professionnel où curiosité, excellence et impact positif sont les moteurs du quotidien.
 
